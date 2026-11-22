@@ -29,9 +29,9 @@
 
         <nav class="nav-links" id="navLinks">
             <a href="#home">Home</a>
-            <a href="#explore">Explore</a>
+           <a href="pages/explore.php">Explore</a>
             <a href="#what-if">What If?</a>
-            <a href="#understand">Understand</a>
+            <a href="pages/explore.php">Understand</a>
             <a href="#playground">Playground</a>
         </nav>
 
